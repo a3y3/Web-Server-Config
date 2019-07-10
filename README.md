@@ -26,4 +26,5 @@ You can visit the server IP address to use the app. However, for signing in and 
 - Provided limited access to the psql database for user www-data (Apache user)
 
 ## Private key
-See the file called 'graders' in root for the private key.
+- See the file called 'graders' in root for the private key. 
+- Use `ssh -i graders grader@54.226.36.197 -p 2200` for logging in.
