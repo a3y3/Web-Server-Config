@@ -28,3 +28,8 @@ You can visit the server IP address to use the app. However, for signing in and 
 ## Private key
 - See the file called 'graders' in root for the private key. 
 - Use `ssh -i graders grader@54.226.36.197 -p 2200` for logging in.
+
+# Third party resources used
+- Stack Exchange (Stackoverflow, Serverfault, etc.)
+- Flask documentation on [mod_wsgi](http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/)
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-tune-your-ssh-daemon-configuration-on-a-linux-vps)
