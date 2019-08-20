@@ -1,6 +1,7 @@
 # Web-Server-Config
 ### What is this?
 This file serves to display information about the linux machine that ~~hosts~~ hosted [Katalog](https://github.com/a3y3/Katalog).
+
 The server is no longer up. Read on for information on how the server was configured.
 
 ### Warning
