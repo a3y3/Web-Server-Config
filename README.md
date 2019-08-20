@@ -2,7 +2,7 @@
 ### What is this?
 This file serves to display information about the linux machine that ~~hosts~~ hosted [Katalog](https://github.com/a3y3/Katalog).
 
-<b>The server is no longer up. Read on for information on how the server was configured.</b>
+<b>IMPORTANT: The server is no longer up. Read on for information on how the server was configured.</b>
 
 ### Warning
 This repository contains a private key in plain text. This is meant only for the eyes of a Udacity grader. Please do not use this key if you are not a Udacity grader. For security purposes, the grader account for which the key is used will be deleted as soon as Udacity is done with this. 
